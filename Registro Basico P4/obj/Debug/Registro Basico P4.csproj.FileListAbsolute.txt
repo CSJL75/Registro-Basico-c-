@@ -1,0 +1,10 @@
+C:\Users\sierr\source\repos\Registro Basico P4\Registro Basico P4\bin\Debug\Registro Basico P4.exe.config
+C:\Users\sierr\source\repos\Registro Basico P4\Registro Basico P4\bin\Debug\Registro Basico P4.exe
+C:\Users\sierr\source\repos\Registro Basico P4\Registro Basico P4\bin\Debug\Registro Basico P4.pdb
+C:\Users\sierr\source\repos\Registro Basico P4\Registro Basico P4\obj\Debug\Registro Basico P4.csproj.AssemblyReference.cache
+C:\Users\sierr\source\repos\Registro Basico P4\Registro Basico P4\obj\Debug\Registro_Basico_P4.Form1.resources
+C:\Users\sierr\source\repos\Registro Basico P4\Registro Basico P4\obj\Debug\Registro_Basico_P4.Properties.Resources.resources
+C:\Users\sierr\source\repos\Registro Basico P4\Registro Basico P4\obj\Debug\Registro Basico P4.csproj.GenerateResource.cache
+C:\Users\sierr\source\repos\Registro Basico P4\Registro Basico P4\obj\Debug\Registro Basico P4.csproj.CoreCompileInputs.cache
+C:\Users\sierr\source\repos\Registro Basico P4\Registro Basico P4\obj\Debug\Registro Basico P4.exe
+C:\Users\sierr\source\repos\Registro Basico P4\Registro Basico P4\obj\Debug\Registro Basico P4.pdb
