@@ -8,3 +8,20 @@ C:\Users\sierr\source\repos\Registro Basico P4\Registro Basico P4\obj\Debug\Regi
 C:\Users\sierr\source\repos\Registro Basico P4\Registro Basico P4\obj\Debug\Registro Basico P4.csproj.CoreCompileInputs.cache
 C:\Users\sierr\source\repos\Registro Basico P4\Registro Basico P4\obj\Debug\Registro Basico P4.exe
 C:\Users\sierr\source\repos\Registro Basico P4\Registro Basico P4\obj\Debug\Registro Basico P4.pdb
+E:\C354R\Escritorio\Program Avanzada\Registro Basico c#\Registro Basico P4\bin\Debug\Registro Basico P4.exe.config
+E:\C354R\Escritorio\Program Avanzada\Registro Basico c#\Registro Basico P4\bin\Debug\Registro Basico P4.exe
+E:\C354R\Escritorio\Program Avanzada\Registro Basico c#\Registro Basico P4\bin\Debug\Registro Basico P4.pdb
+E:\C354R\Escritorio\Program Avanzada\Registro Basico c#\Registro Basico P4\bin\Debug\MySql.Data.dll
+E:\C354R\Escritorio\Program Avanzada\Registro Basico c#\Registro Basico P4\bin\Debug\System.Memory.dll
+E:\C354R\Escritorio\Program Avanzada\Registro Basico c#\Registro Basico P4\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\C354R\Escritorio\Program Avanzada\Registro Basico c#\Registro Basico P4\bin\Debug\System.Numerics.Vectors.dll
+E:\C354R\Escritorio\Program Avanzada\Registro Basico c#\Registro Basico P4\bin\Debug\System.Buffers.dll
+E:\C354R\Escritorio\Program Avanzada\Registro Basico c#\Registro Basico P4\bin\Debug\MySql.Data.xml
+E:\C354R\Escritorio\Program Avanzada\Registro Basico c#\Registro Basico P4\obj\Debug\Registro Basico P4.csproj.AssemblyReference.cache
+E:\C354R\Escritorio\Program Avanzada\Registro Basico c#\Registro Basico P4\obj\Debug\Registro_Basico_P4.Form1.resources
+E:\C354R\Escritorio\Program Avanzada\Registro Basico c#\Registro Basico P4\obj\Debug\Registro_Basico_P4.Properties.Resources.resources
+E:\C354R\Escritorio\Program Avanzada\Registro Basico c#\Registro Basico P4\obj\Debug\Registro Basico P4.csproj.GenerateResource.cache
+E:\C354R\Escritorio\Program Avanzada\Registro Basico c#\Registro Basico P4\obj\Debug\Registro Basico P4.csproj.CoreCompileInputs.cache
+E:\C354R\Escritorio\Program Avanzada\Registro Basico c#\Registro Basico P4\obj\Debug\Registro Basico P4.csproj.CopyComplete
+E:\C354R\Escritorio\Program Avanzada\Registro Basico c#\Registro Basico P4\obj\Debug\Registro Basico P4.exe
+E:\C354R\Escritorio\Program Avanzada\Registro Basico c#\Registro Basico P4\obj\Debug\Registro Basico P4.pdb
